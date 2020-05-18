@@ -1,6 +1,6 @@
 #include "sdt.h"
 
-
+//Note: for educational purposes only
 int main(){
 	int x,y;
 	std::cout << "Input x and y: ";
