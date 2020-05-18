@@ -7,4 +7,5 @@ int main(){
 	std::cin >> x >> y;
 	std::cout << "x + y = " << x+y<< "\n";
 	std::cout << "x - y = " << x - y << "\n";
+	std::cout << "x * y = " << x * y <<"\n";
 }
